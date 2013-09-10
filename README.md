@@ -1,0 +1,4 @@
+ls
+==
+
+list directory contents
